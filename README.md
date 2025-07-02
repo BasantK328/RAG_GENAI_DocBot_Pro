@@ -59,7 +59,7 @@ RAG_GENAI_DocBot/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Aniketkumar121/RAG_GENAI_DocBot.git
+git clone https://github.com/BasantK328/RAG_GENAI_DocBot.git
 cd RAG_GENAI_DocBot
 ```
 
